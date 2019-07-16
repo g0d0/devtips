@@ -2,4 +2,8 @@
 
 Conteúdo principal
 
-Link:
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
